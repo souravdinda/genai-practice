@@ -6,7 +6,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python1
+.Python2
 build/
 develop-eggs/
 dist1/
