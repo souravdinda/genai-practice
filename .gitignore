@@ -6,10 +6,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+.Python1
 build/
 develop-eggs/
-dist/
+dist1/
 downloads/
 eggs/
 .eggs/
