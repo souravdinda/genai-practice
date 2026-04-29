@@ -1,1 +1,1 @@
-# genai-practice1
+# genai-practice2
